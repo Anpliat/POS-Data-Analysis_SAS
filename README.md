@@ -4,7 +4,7 @@
 Conduct an analysis of a clothing company to provide suggestions on how the organization should act in order to operate in a more efficient and effective way.
 
 
-### Programming languages and tools:
+### Programming languages and tools
 :arrow_right: Base SAS
 
 :arrow_right: SAS Enterprise Miner
