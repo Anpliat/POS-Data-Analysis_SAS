@@ -1,6 +1,6 @@
 # POS Data Analysis (SAS Programming and Data Mining)
 
-### Purpose
+### Scope
 Conduct an analysis of a clothing company to provide suggestions on how the organization should act in order to operate in a more efficient and effective way.
 
 
