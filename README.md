@@ -3,10 +3,12 @@
 ### Purpose
 Conduct an analysis of a clothing company to provide suggestions on how the organization should act in order to operate in a more efficient and effective way.
 
+
 ### Programming languages and tools:
 :arrow_right: Base SAS
 
 :arrow_right: SAS Enterprise Miner
+
 
 ### Datasets description
 The datasets consist of POS data from a physical store that sells women’s clothes. The available data are included in the following tables.
