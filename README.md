@@ -8,7 +8,7 @@ Conduct an analysis of a clothing company to provide suggestions on how the orga
 
 :arrow_right: SAS Enterprise Miner
 
-## Datasets description
+### Datasets description
 The datasets consist of POS data from a physical store that sells women’s clothes. The available data are included in the following tables.
 
 🠊 **Customer table:**
